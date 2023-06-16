@@ -1,4 +1,4 @@
-![TalentEase logo](talentease.png)
+![TalentEase logo](./talentease.png)
 
 # TalentEase - C23-PR492 - Bangkit 2023
 
